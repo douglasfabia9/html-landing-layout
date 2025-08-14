@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1px 2px;
+   
+}
+.navbar button{
+    color: white;
+    background-color: rgb(97, 97, 243);
+    width: 60px;
+}
+.hero{
+    background-color: white;
+padding: 182px 114px;
+text-align: center;
+}
+.hero h1{
+    height: 100px;
+}
+
+.signup-form{
+    display: flex;
+    justify-content: center;
+
+   border: none;
+ 
+}
+
+.sub{
+      color: white;
+    background-color: rgb(97, 97, 243);
+    
+    width: 60px;
+}
+.features{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.feature{
+    max-width: 200px;
+}
+.icons-0{
+    margin-bottom: 1rem;
+    font-size: 3rem;
+    background-color: ;
+}
+.icons-1{
+      margin-bottom: 1rem;
+    font-size: 3rem;
+}
+.iconns{
+ font-size: 3rem;
+}
+.fa-solid{
+    color: rgb(22, 22, 158);
+}
